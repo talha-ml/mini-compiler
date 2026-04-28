@@ -6,6 +6,22 @@ Designed with a modern, dark-themed WinForms UI, this tool provides real-time vi
 
 ---
 
+## 📸 Project Showcase
+
+### **Main Dashboard & Studio Interface**
+<img width="100%" alt="Main Dashboard" src="https://github.com/user-attachments/assets/898735e2-0202-4bfa-a584-0556a327e4f4" />
+
+### **Pipeline Stages & Error Handling**
+| Abstract Syntax Tree (AST) Visualizer | Symbol Table & Semantic Logic |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/2fab31ec-24d0-4bdc-b88d-b97f3ee575b1" width="100%" /> | <img src="https://github.com/user-attachments/assets/8cc9fc24-8f50-4812-9d1e-89430c9cc18d" width="100%" /> |
+
+| IR Optimization & Assembly Generation | Syntax Validation & Error Popups |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/abcebc18-cf47-4d8b-8269-024ad5fcbd1e" width="100%" /> | <img src="https://github.com/user-attachments/assets/1de16545-7a1c-4fe0-864a-72154a4f7751" width="100%" /> |
+
+---
+
 ## 🛠 Key Specifications & Features
 
 ### 1. Lexical Analysis (Scanner)
@@ -60,19 +76,3 @@ int main() {
     }
     return 0;
 }
-
-
-<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/898735e2-0202-4bfa-a584-0556a327e4f4" />
-
-<img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/2fab31ec-24d0-4bdc-b88d-b97f3ee575b1" />
-
-<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/8cc9fc24-8f50-4812-9d1e-89430c9cc18d" />
-
-<img width="1920" height="1080" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/abcebc18-cf47-4d8b-8269-024ad5fcbd1e" />
-
-<img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/1de16545-7a1c-4fe0-864a-72154a4f7751" />
-
-
-
-
-
